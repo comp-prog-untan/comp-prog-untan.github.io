@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://cp.informatika.untan.ac.id/contests/i1/announcement/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/register/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/participants/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/questions/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/editorial-warmup/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/results/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/contests/i1/editorial-contest/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/categories/</loc></url><url><loc>https://cp.informatika.untan.ac.id/contests/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/</loc><lastmod>2022-01-31T05:03:36+07:00</lastmod></url><url><loc>https://cp.informatika.untan.ac.id/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/announcement/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/contests/i2/announcement/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/contests/i2/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/participants/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/questions/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/editorial-warmup/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/results/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/i1/editorial-contest/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/contests/i2/register/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/archive/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/categories/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/contests/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/tags/</loc>
+  </url>
+</urlset>

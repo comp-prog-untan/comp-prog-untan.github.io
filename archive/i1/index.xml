@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Competitive Programming Untan</title>
-    <link>https://cp.informatika.untan.ac.id/</link>
-    <description>Recent content on Competitive Programming Untan</description>
+    <title>IF Untan Internal Contest #1 on Competitive Programming Untan</title>
+    <link>https://cp.informatika.untan.ac.id/archive/i1/</link>
+    <description>Recent content in IF Untan Internal Contest #1 on Competitive Programming Untan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cp.informatika.untan.ac.id/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cp.informatika.untan.ac.id/archive/i1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcement</title>
       <link>https://cp.informatika.untan.ac.id/archive/i1/announcement/</link>
@@ -16,18 +16,6 @@
 Warm-up #   Contest URL: codeforces.com/contests/359459 Waktu: 29 Januari 2022 (09:00-14:00 UTC+7) Durasi: 5 jam Problems: 7  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.
 Contest #   Contest URL: codeforces.com/contests/358294 Waktu: 30 Januari 2022 (09:00-14:00 UTC+7) Durasi: 5 jam Problems: 12  Scoreboard akan difreeze 1 jam terakhir dan diunfreeze 31 Januari 2022 00:00 UTC+7.
 Prizes #     # Prize     1st Rp1.</description>
-    </item>
-    
-    <item>
-      <title>Announcement</title>
-      <link>https://cp.informatika.untan.ac.id/contests/i2/announcement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/contests/i2/announcement/</guid>
-      <description>Kita akan adakan Untan Programming Contest II.
-Contest bersifat individu dan terbuka untuk semua mahasiswa Untan yang masih berstatus aktif pada Oktober 2022. Namun, semua mahasiswa Untan selain itu tetap dapat berpartisipasi di luar contest (out of competition).
-Warm-up #   Contest URL: codeforces.com/contests/375304 Waktu: 28 Mei 2022 (10:00-12:00 UTC+7) Durasi: 2 jam Problems: 5  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.
-Contest #   Contest URL: codeforces.</description>
     </item>
     
     <item>
@@ -84,18 +72,6 @@ Winners #  Selamat kepada para pemenang:
       
       <guid>https://cp.informatika.untan.ac.id/archive/i1/editorial-contest/</guid>
       <description>Problem A: Balik #   Hint 1 ↕    \(1 \leq x \leq 10^{30}\)      Hint 2 ↕  String     Hint 3 ↕  Posisi digit pertama yang tidak nol setelah string dibalik     Solution ↕  Salah satu solusinya adalah dengan mengambil input sebagai string, kemudian membalikkan string tersebut. Setelah string dibalik, kita hanya akan mulai mencetak digit apabila kita menemukan digit yang tidak nol pada string.</description>
-    </item>
-    
-    <item>
-      <title>Cara Register Contest</title>
-      <link>https://cp.informatika.untan.ac.id/contests/i2/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/contests/i2/register/</guid>
-      <description>Belum memiliki account CodeForces #   Register account CodeForces.  Sudah memiliki account CodeForces #   Register di form yang ada, gunakan handle (username) CodeForces yang Anda register di tahap sebelumnya.  Anda hanya perlu melakukan registrasi satu kali untuk mengikuti keseluruhan contest.
-Sudah registrasi #  Anda sudah selesai melakukan registrasi.
-Anda akan diinvite ke contest setidaknya 2 hari sebelum tanggal warm-up.
-Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal warm-up.</description>
     </item>
     
   </channel>
