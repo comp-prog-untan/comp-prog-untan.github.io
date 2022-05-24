@@ -19,6 +19,19 @@ Contest #   Contest URL: codeforces.</description>
     </item>
     
     <item>
+      <title>Pertanyaan</title>
+      <link>https://cp.informatika.untan.ac.id/contests/i2/questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cp.informatika.untan.ac.id/contests/i2/questions/</guid>
+      <description>Apakah terdapat pembobotan score sesuai dengan tingkat kesulitan soal? #  Tidak.
+Apakah soal disusun berdasarkan tingkat kesulitan? #  Ya.
+Namun, tingkat kesulitan adalah hal yang subjektif. Peserta disarankan untuk membaca semua problem yang ada.
+Sistem penalty yang akan digunakan saat contest? #  Sistem penalty ICPC.
+ Waktu penalty untuk suatu problem adalah waktu pertama submission menerima verdict Accepted, ditambah 20 menit waktu penalti untuk setiap submission yang tidak Accepted sebelum itu.</description>
+    </item>
+    
+    <item>
       <title>Cara Register Contest</title>
       <link>https://cp.informatika.untan.ac.id/contests/i2/register/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
