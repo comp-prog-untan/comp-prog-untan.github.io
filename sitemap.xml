@@ -2,36 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/announcement/</loc>
+    <loc>https://cp.informatika.untan.ac.id/about/</loc>
   </url><url>
-    <loc>https://cp.informatika.untan.ac.id/contests/i2/announcement/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/contests/i2/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/participants/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/contests/i2/questions/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/questions/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/editorial-warmup/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/results/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/i1/editorial-contest/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/contests/i2/register/</loc>
-  </url><url>
-    <loc>https://cp.informatika.untan.ac.id/archive/</loc>
+    <loc>https://cp.informatika.untan.ac.id/archives/</loc>
   </url><url>
     <loc>https://cp.informatika.untan.ac.id/categories/</loc>
   </url><url>
     <loc>https://cp.informatika.untan.ac.id/</loc>
   </url><url>
-    <loc>https://cp.informatika.untan.ac.id/contests/</loc>
+    <loc>https://cp.informatika.untan.ac.id/home/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/register/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/participants/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/questions/</loc>
   </url><url>
     <loc>https://cp.informatika.untan.ac.id/tags/</loc>
+  </url><url>
+    <loc>https://cp.informatika.untan.ac.id/announcement/</loc>
   </url>
 </urlset>

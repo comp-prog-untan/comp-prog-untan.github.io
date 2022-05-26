@@ -7,107 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://cp.informatika.untan.ac.id/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Announcement</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/announcement/</link>
+      <title>About Competitive Programming</title>
+      <link>https://cp.informatika.untan.ac.id/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/announcement/</guid>
-      <description>Kita akan adakan IF Untan Internal Contest #1.
-Warm-up #   Contest URL: codeforces.com/contests/359459 Waktu: 29 Januari 2022 (09:00-14:00 UTC+7) Durasi: 5 jam Problems: 7  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.
-Contest #   Contest URL: codeforces.com/contests/358294 Waktu: 30 Januari 2022 (09:00-14:00 UTC+7) Durasi: 5 jam Problems: 12  Scoreboard akan difreeze 1 jam terakhir dan diunfreeze 31 Januari 2022 00:00 UTC+7.
-Prizes #     # Prize     1st Rp1.</description>
+      <guid>https://cp.informatika.untan.ac.id/about/</guid>
+      <description>Competitive Programming is a mind sport where participants will write programs according to the provided specifications. The provided problems will test participant&amp;rsquo;s problem solving skills and their ability to apply computer science concepts that they have learned during their university study.
+Participants are also implementing their solutions under time pressure and others who are participating in the competition.
+Scoreboard will be shown in real-time and will show all participants and problems that they have successfully solved.</description>
     </item>
     
     <item>
-      <title>Announcement</title>
-      <link>https://cp.informatika.untan.ac.id/contests/i2/announcement/</link>
+      <title>Archives</title>
+      <link>https://cp.informatika.untan.ac.id/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cp.informatika.untan.ac.id/contests/i2/announcement/</guid>
-      <description>Kita akan adakan Untan Programming Contest II.
-Contest bersifat individu dan terbuka untuk semua mahasiswa Untan yang masih berstatus aktif pada Oktober 2022. Namun, semua mahasiswa Untan selain itu tetap dapat berpartisipasi di luar contest (out of competition).
-Register  Warm-up Warm-up #   Contest URL: codeforces.com/contests/375304 Waktu: 28 Mei 2022 (10:00-12:00 UTC+7) Durasi: 2 jam Problems: 5  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.Contest Contest #   Contest URL: codeforces.</description>
+      <guid>https://cp.informatika.untan.ac.id/archives/</guid>
+      <description>In development</description>
+    </item>
+    
+    <item>
+      <title>Competitive Programming Untan</title>
+      <link>https://cp.informatika.untan.ac.id/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cp.informatika.untan.ac.id/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to register</title>
+      <link>https://cp.informatika.untan.ac.id/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cp.informatika.untan.ac.id/register/</guid>
+      <description>Belum memiliki account Codeforces  Register account Codeforces.  Sudah memiliki account Codeforces  Register di form yang ada, gunakan handle (username) Codeforces yang Anda register di tahap sebelumnya.  Anda hanya perlu melakukan registrasi satu kali untuk mengikuti keseluruhan contest.
+Sudah registrasi Anda sudah selesai melakukan registrasi.
+Anda akan diinvite ke contest setidaknya 2 hari sebelum tanggal warm-up.
+Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal warm-up.</description>
     </item>
     
     <item>
       <title>Participants</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/participants/</link>
+      <link>https://cp.informatika.untan.ac.id/participants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/participants/</guid>
-      <description> Acedias AkmalSkrn11 anisamuharni arinishfa bahrulAM berak boykagura chioyo D1041211075 divaadinda19 elsandri esmoel fathimahnur FauzanAdz fikatt26 flammingcat galuhksmptri GilangHanie hanuaex35 ibnuzhm Ilham12 isaacmarpaung J0o. Judithya kennyarlexy Khoir.A KhtrinaCl KnightJack_UNTAN le_jojot marissa.ana mei123ly mhakimsaputra17 MrArvon Musss nicholascannavaro osifunny Pandulaou_666 Prav13 rendykurniawan rezarahma sellinoventi shidiq tafifa Taneee Trustprn Ur_crush willyferry001 WzLaughez  </description>
+      <guid>https://cp.informatika.untan.ac.id/participants/</guid>
+      <description>TBA</description>
     </item>
     
     <item>
-      <title>Pertanyaan</title>
-      <link>https://cp.informatika.untan.ac.id/contests/i2/questions/</link>
+      <title>Questions</title>
+      <link>https://cp.informatika.untan.ac.id/questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cp.informatika.untan.ac.id/contests/i2/questions/</guid>
-      <description>Apakah terdapat pembobotan score sesuai dengan tingkat kesulitan soal? #  Tidak.
-Apakah soal disusun berdasarkan tingkat kesulitan? #  Ya.
+      <guid>https://cp.informatika.untan.ac.id/questions/</guid>
+      <description>Apakah terdapat pembobotan score sesuai dengan tingkat kesulitan soal? Tidak.
+Apakah soal disusun berdasarkan tingkat kesulitan? Ya.
 Namun, tingkat kesulitan adalah hal yang subjektif. Peserta disarankan untuk membaca semua problem yang ada.
-Sistem penalty yang akan digunakan saat contest? #  Sistem penalty ICPC.
- Waktu penalty untuk suatu problem adalah waktu pertama submission menerima verdict Accepted, ditambah 20 menit waktu penalti untuk setiap submission yang tidak Accepted sebelum itu.</description>
+Sistem penalty yang akan digunakan saat contest? Sistem penalty ICPC.
+ Waktu penalty untuk suatu problem adalah waktu pertama submission menerima verdict Accepted, ditambah 20 menit waktu penalti untuk setiap submission yang tidak Accepted sebelum itu.
+ Apakah terdapat penalty apabila melakukan re-submit?</description>
     </item>
     
     <item>
-      <title>Pertanyaan Teknis</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/questions/</link>
+      <title>UPC II Announcement</title>
+      <link>https://cp.informatika.untan.ac.id/announcement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/questions/</guid>
-      <description>Contest dilakukan secara online atau offline? #  Online.
-  Anda dapat menggunakan buku atau catatan apapun, termasuk kode yang pernah Anda ketik. Semua resource yang Anda gunakan harus ada sebelum contest dimulai.
-  Anda tidak diperbolehkan untuk membahas topik atau hal yang berkaitan dengan problem yang ada dengan siapapun, termasuk dengan peserta lain. Anda hanya dapat bertanya melalui sistem question saat contest berlangsung.
-  Pertanyaan klarifikasi terkait problem yang ada harus ditanyakan dalam bahasa Indonesia atau bahasa Inggris.</description>
-    </item>
-    
-    <item>
-      <title>Warm-up Editorial</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/editorial-warmup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/editorial-warmup/</guid>
-      <description>Problem A: Waktu #   Hint 1 ↕  Tiga karakter terakhir tidak berubah     Hint 2 ↕  \(29:00 = 05:00\)     Solution ↕  Terdapat banyak cara untuk menyelesaikan soal ini. Kita dapat mengasumsikan bahwa \(Y\) memiliki format HH:MM. Selanjutnya, perhatikan bahwa tiga karakter terakhir tidak akan berubah sebab kita hanya menambah waktu di bagian jam.
-Saat menambah waktu di bagian jam, jangan lupa untuk dimodulo \(24\) sebab 2 jam setelah \(23:00\) adalah \(01:00\), bukan \(25:00\).</description>
-    </item>
-    
-    <item>
-      <title>Results</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/results/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/results/</guid>
-      <description>Terima kasih telah mengikuti IF Untan Internal Contest #1!
-Scoreboard telah diunfreeze.
-Winners #  Selamat kepada para pemenang:
-   Place Name CF Handle     1ˢᵗ (IF 2020)  MEILY
-  mei123ly   2ⁿᵈ (IF 2020)  JONATHAN DARIUS
-  J0o.   3ʳᵈ (IF 2020)  STANLEY BALDWIN
-  osifunny   4ᵗʰ (IF 2018)  Nicholas Cannavaro
-  nicholascannavaro   5ᵗʰ (IF 2020)  Gilang Muhammad Hasbillah Hanie</description>
-    </item>
-    
-    <item>
-      <title>Contest Editorial</title>
-      <link>https://cp.informatika.untan.ac.id/archive/i1/editorial-contest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/archive/i1/editorial-contest/</guid>
-      <description>Problem A: Balik #   Hint 1 ↕    \(1 \leq x \leq 10^{30}\)      Hint 2 ↕  String     Hint 3 ↕  Posisi digit pertama yang tidak nol setelah string dibalik     Solution ↕  Salah satu solusinya adalah dengan mengambil input sebagai string, kemudian membalikkan string tersebut. Setelah string dibalik, kita hanya akan mulai mencetak digit apabila kita menemukan digit yang tidak nol pada string.</description>
-    </item>
-    
-    <item>
-      <title>Cara Register Contest</title>
-      <link>https://cp.informatika.untan.ac.id/contests/i2/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cp.informatika.untan.ac.id/contests/i2/register/</guid>
-      <description>Belum memiliki account CodeForces #   Register account CodeForces.  Sudah memiliki account CodeForces #   Register di form yang ada, gunakan handle (username) CodeForces yang Anda register di tahap sebelumnya.  Anda hanya perlu melakukan registrasi satu kali untuk mengikuti keseluruhan contest.
-Sudah registrasi #  Anda sudah selesai melakukan registrasi.
-Anda akan diinvite ke contest setidaknya 2 hari sebelum tanggal warm-up.
-Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal warm-up.</description>
+      <guid>https://cp.informatika.untan.ac.id/announcement/</guid>
+      <description>Kita akan adakan Untan Programming Contest II.
+Contest bersifat individu dan terbuka untuk semua mahasiswa Untan yang masih berstatus aktif pada Oktober 2022. Namun, semua mahasiswa Untan selain itu tetap dapat berpartisipasi di luar contest (out of competition).
+Warm-up  Contest URL: codeforces.com/contests/375304 Waktu: 28 Mei 2022 (10:00-12:00 UTC+7) Durasi: 2 jam Problems: 5  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.
+Contest  Contest URL: codeforces.com/contests/375305 Waktu: 29 Mei 2022 (10:00-13:00 UTC+7) Durasi: 3 jam Problems: 5-8  Scoreboard akan difreeze 1 jam terakhir dan diunfreeze 30 Mei 2022 10:00 UTC+7.</description>
     </item>
     
   </channel>
