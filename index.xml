@@ -41,10 +41,11 @@ Scoreboard will be shown in real-time and will show all participants and problem
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cp.informatika.untan.ac.id/register/</guid>
-      <description>Belum memiliki account Codeforces  Register account Codeforces.  Sudah memiliki account Codeforces  Register di form yang ada, gunakan handle (username) Codeforces yang Anda register di tahap sebelumnya.  Anda hanya perlu melakukan registrasi satu kali untuk mengikuti keseluruhan contest.
+      <description>Belum memiliki account Codeforces Register account Codeforces. Sudah memiliki account Codeforces Register di form yang ada, gunakan handle (username) Codeforces yang Anda register di tahap sebelumnya. Anda hanya perlu melakukan registrasi satu kali untuk mengikuti keseluruhan contest.
 Sudah registrasi Anda sudah selesai melakukan registrasi.
 Anda akan diinvite ke contest setidaknya 2 hari sebelum tanggal warm-up.
-Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal warm-up.</description>
+Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal warm-up.
+Setelah registrasi Selagi menunggu, Anda dianjurkan untuk menelusuri atau menggunakan platform Codeforces untuk latihan atau mencoba sistem submission.</description>
     </item>
     
     <item>
@@ -53,7 +54,7 @@ Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal war
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cp.informatika.untan.ac.id/participants/</guid>
-      <description>Aekashi *Acedias annisafakhriyyah Anuku bahrulAM *D1041211075 druizzz dwialviany fanidya_nhw flammingcat fransiskusdave J0o. kennyarlexy KnightJack_UNTAN le_jojot lunathara Luthfi030103 madhasuki mei123ly mhakimsaputra17 MrArvon Natalia.A NewsBee osifunny Pandulaou_666 pentadakosta99 Praja01 Prav13 QianRen Rezza_Maulana shidiq SiapakahSaya *Sandzzz tafifa Taneee Trustprn ulilaila217 WILSON_JAP wisnupray WzLaughez yuunnnnn  * = out of competition</description>
+      <description>Aekashi *Acedias annisafakhriyyah Anuku bahrulAM *D1041211075 druizzz dwialviany fanidya_nhw flammingcat fransiskusdave J0o. kennyarlexy KnightJack_UNTAN le_jojot lunathara Luthfi030103 madhasuki mei123ly mhakimsaputra17 MrArvon Natalia.A NewsBee osifunny Pandulaou_666 pentadakosta99 Praja01 Prav13 QianRen Rezza_Maulana shidiq SiapakahSaya *Sandzzz tafifa Taneee Trustprn ulilaila217 WILSON_JAP wisnupray WzLaughez yuunnnnn * = out of competition</description>
     </item>
     
     <item>
@@ -66,8 +67,8 @@ Daftar participant yang telah diinvite akan diumumkan 2 hari sebelum tanggal war
 Apakah soal disusun berdasarkan tingkat kesulitan? Ya.
 Namun, tingkat kesulitan adalah hal yang subjektif. Peserta disarankan untuk membaca semua problem yang ada.
 Sistem penalty yang akan digunakan saat contest? Sistem penalty ICPC.
- Waktu penalty untuk suatu problem adalah waktu pertama submission menerima verdict Accepted, ditambah 20 menit waktu penalti untuk setiap submission yang tidak Accepted sebelum itu.
- Apakah terdapat penalty apabila melakukan re-submit?</description>
+Waktu penalty untuk suatu problem adalah waktu pertama submission menerima verdict Accepted, ditambah 20 menit waktu penalti untuk setiap submission yang tidak Accepted sebelum itu.
+Apakah terdapat penalty apabila melakukan re-submit?</description>
     </item>
     
     <item>
@@ -77,10 +78,9 @@ Sistem penalty yang akan digunakan saat contest? Sistem penalty ICPC.
       
       <guid>https://cp.informatika.untan.ac.id/announcement/</guid>
       <description>Scoreboard telah diunfreeze. Selamat kepada para pemenang!
-Problem analysis dapat diunduh di sini.
+# Name 1st Meily 2nd Jonathan Darius 3rd Ribka Syalom Christianti Saragih 4th Kenny Arlexy 5th Ardian Arvon 6th Ade Rizaldi 7th Dzaki Zuhditiya Maulana 8th Stanley Baldwin 9th Dhimas Rangga Irza Ruizzandi 10th Natalia Artika Problem analysis dapat diunduh di sini.
 Sampai jumpa di contest selanjutnya!
- Warm-up  Contest URL: codeforces.com/contests/375304 Waktu: 11 Juni 2022 (10:00-12:00 UTC+7) Durasi: 2 jam Problems: 5  Warm-up bersifat optional namun dianjurkan. Score warm-up diabaikan.
-Contest  Contest URL: codeforces.com/contests/375305 Waktu: 12 Juni 2022 (10:00-15:00 UTC+7) Durasi: 5 jam Problems: 5-8  Scoreboard akan difreeze 1 jam terakhir dan diunfreeze keesokan harinya.</description>
+Warm-up Contest URL: codeforces.com/contests/375304 Waktu: 11 Juni 2022 (10:00-12:00 UTC+7) Durasi: 2 jam Problems: 5 Warm-up bersifat optional namun dianjurkan.</description>
     </item>
     
   </channel>
